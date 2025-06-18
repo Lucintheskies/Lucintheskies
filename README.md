@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rodriguezluciamatilde@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Programar me da paz... hasta que algo rompe y paso 2 horas buscando un ; perdido.
 
 <!---
 Lucintheskies/Lucintheskies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
